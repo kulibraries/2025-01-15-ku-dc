@@ -77,6 +77,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+
+<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. Registration will open by mid-December.</p>
 
 <h2 id="general">General Information</h2>
 
