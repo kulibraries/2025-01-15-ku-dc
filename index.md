@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "38.956574"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-95.244782"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "January 15-16, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:00 pm, both days"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "9:00 am - 4:30 pm, both days"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-01-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-01-16       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Caroline Kisielinksi, Ph.D", "Boryana Koseva, Ph.D"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -79,7 +79,8 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="registration">Registration</h2>
 
-<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus. Registration will open by mid-December.</p>
+<p>This is an <strong>in-person</strong> workshop on KU's Lawrence campus that will not be recorded. Registration opens on December 9 and is limited to 25 learners. Only register if you plan to attend.</p>
+<p><a href="https://ku.libwizard.com/f/2025-01-15-ku-dc" target="_blank">Register here</a></p>
 
 <h2 id="general">General Information</h2>
 
